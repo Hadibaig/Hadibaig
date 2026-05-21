@@ -1,19 +1,17 @@
 # Hey, I'm Mirza Hadi 👋
 
-**Full-Stack Developer & Technical Problem Solver**  
-📍 Faisalabad, Pakistan &nbsp;|&nbsp; 🌍 Open to Remote & EU Relocation
+**Full-Stack WordPress Developer & Technical Problem Solver**  
+📍 Faisalabad, Pakistan | 🌍 Open to Remote & EU-based Opportunities (Relocation Flexible)
 
 ---
 
 ### What I Do
 
-I don't just build websites — I fix what others can't.
+I specialize in building, optimizing, and fixing complex WordPress systems.
 
-With **17+ years in IT** and **5+ years as a full-stack WordPress 
-developer**, I've delivered **100+ production websites** and serve 
-as the designated technical escalation resource at my company — 
-every complex website issue that other developers struggle to 
-diagnose gets assigned to me.
+With **5+ years of full-stack WordPress development experience** and a broader **IT background across systems, MIS, and technical support**, I’ve delivered **100+ production WordPress & WooCommerce websites**.
+
+I also act as a technical escalation resource — handling critical issues in WordPress, WooCommerce, Shopify, Elementor, performance optimization, technical SEO, and server/database debugging that require deep troubleshooting.
 
 ---
 
@@ -32,7 +30,7 @@ diagnose gets assigned to me.
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat&logo=shopify&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 
-**Currently Learning — IBM Certifications (July 2026)**  
+**Currently Learning (IBM Certifications – 2026)**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -42,21 +40,21 @@ diagnose gets assigned to me.
 
 ### 🏆 Highlights
 
-- 🥇 Employee of the Month — Globital (October 2024)
+- 🥇 Employee of the Month — Globital (Oct 2024)
 - 📰 DCXherald Newsletter — 4,000+ subscribers on LinkedIn
-- 🔗 15,000+ LinkedIn connections (global HR & recruiters)
-- 📜 IBM Full Stack Developer *(In Progress — July 2026)*
-- 📜 IBM DevOps Engineering *(In Progress — July 2026)*
+- 🔗 15,000+ LinkedIn connections (global tech & recruiters)
+- 📜 IBM Full Stack Developer *(In Progress)*
+- 📜 IBM DevOps Engineering *(In Progress)*
 - ✅ Meta Front-End Developer
 - ✅ IBM ISC2 Cybersecurity Specialist
 
 ---
 
-### 📰 DCXherald — My Newsletter
+### 📰 DCXherald — Newsletter
 
-I write about **real website problems and how to solve them.**  
-Read by **4,000+ subscribers** — developers, agencies, and 
-business owners worldwide. No fluff. Just fixes.
+I write about real-world WordPress and website issues and how to solve them.
+
+Read by **4,000+ developers, agencies, and business owners worldwide**.
 
 👉 [Read on LinkedIn](https://linkedin.com/in/hadibaig)
 
